@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth007-singh&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth007-singh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth007-singh" alt="siddharth007-singh" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@siddhar23868449" target="blank"><img src="https://img.shields.io/twitter/follow/@siddhar23868449?logo=twitter&style=for-the-badge" alt="@siddhar23868449" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs**
