@@ -7,8 +7,8 @@
  <a href="https://www.linkedin.com/in/siddharth-singh-8219961b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-      generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://www.linkedin.com/in/siddharth-singh-8219961b3/" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth007-singh&show_icons=true&locale=en&layout=compact"    alt="siddharth007-singh" height="200"/></p>
+<!-- <p align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth007-singh&show_icons=true&locale=en&layout=compact"    alt="siddharth007-singh" height="200"/></p> -->
 
  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth007-singh&" alt="siddharth007-singh" width="500"/></p>
 </p>
