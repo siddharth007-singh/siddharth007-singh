@@ -12,6 +12,8 @@
 
 [![Siddharth's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/siddharth007-singh)
 
+[![An image of @siddharth007singh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddharth007singh)](https://holopin.io/@siddharth007singh)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth007-singh&show_icons=true&locale=en&layout=compact&theme=tokyonight"    alt="siddharth007-singh"/></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth007-singh&&theme=tokyonight" alt="siddharth007-singh" width="500"/></p>
